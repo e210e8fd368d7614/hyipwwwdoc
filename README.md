@@ -22,3 +22,9 @@ git commit -m "first commit"
 git remote add origin https://github.com/you_repository/you_project
 git push -u origin master
 ```
+Может еще потребоваться
+```
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+```
